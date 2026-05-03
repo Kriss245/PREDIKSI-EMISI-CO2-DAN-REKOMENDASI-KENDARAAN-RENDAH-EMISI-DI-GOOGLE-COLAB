@@ -11,9 +11,9 @@
 
 # 🛠️ TEKNOLOGI YANG DIGUNAKAN
 - **Bahasa Pemrograman:** Python.
-- **_Library:_** Pandas, NumPy, Scikit-Learn, Matplotlib, dan IPyWidgets.
+- **Library:** Pandas, NumPy, Scikit-Learn, Matplotlib, dan IPyWidgets.
 - **Platform:** Google Colab.
-- **_Dataset:_** _Dataset_ ini bersifat publik terkait Emisi CO₂ kendaraan yang berasal dari platform Kaggle.
+- **Dataset:** _Dataset_ ini bersifat publik terkait Emisi CO₂ kendaraan yang berasal dari platform Kaggle.
 
 ---
 
@@ -32,13 +32,13 @@ Untuk menjalankan sistem pemodelan ini secara optimal, silakan ikuti langkah-lan
 ---
 
 # 🖼️ TAMPILAN IMPLEMENTASI SISTEM
-### HASIL PREDIKSI EMISI
+### 1. HASIL PREDIKSI EMISI
 <p align="center"><img src="https://imgur.com/RCMuLRq.png" width="500"></p>
 <p align="center" style="font-size:10px; color:gray;">
 <em> Gambar 1. Hasil Prediksi Emisi </em>
 </p>
 
-### VISUALISASI EVALUASI MODEL
+### 2. VISUALISASI EVALUASI MODEL
 <p align="center"><img src="https://imgur.com/X3V8N7t.png" width="500"></p>
 <p align="center" style="font-size:10px; color:gray;">
 <em> Gambar 2. Perbandingan Data Aktual dan Hasil Prediksi </em>
@@ -54,7 +54,7 @@ Untuk menjalankan sistem pemodelan ini secara optimal, silakan ikuti langkah-lan
 <em> Gambar 4. Analisis Error (Residual Plot) </em>
 </p>
 
-### IMPLEMENTASI SISTEM
+### 3. IMPLEMENTASI SISTEM
 <p align="center"><img src="https://imgur.com/zmY6u0v.png" width="500"></p>
 <p align="center" style="font-size:10px; color:gray;">
 <em> Gambar 5. Implementasi Sistem </em>
