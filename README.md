@@ -13,7 +13,7 @@
 - **Bahasa Pemrograman:** Python.
 - **Library:** Pandas, NumPy, Scikit-Learn, Matplotlib, dan IPyWidgets.
 - **Platform:** Google Colab.
-- **Dataset:** _Dataset_ ini bersifat publik terkait Emisi CO₂ kendaraan yang berasal dari platform Kaggle. Data tersebut tersedia dan dapat diakses secara publik melalui badge **Open in Kaggle** berikut: [![Open In Kaggle](https://img.shields.io/badge/Kaggle-Dataset-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/datasets/mcpenguin/canadian-fuel-consumption-ratings)
+- **Dataset:** _Dataset_ ini bersifat publik terkait Emisi CO₂ kendaraan yang berasal dari platform Kaggle. Data tersebut tersedia dan dapat diakses secara publik melalui badge **Kaggle** berikut: [![Kaggle](https://img.shields.io/badge/Kaggle-Dataset-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/datasets/mcpenguin/canadian-fuel-consumption-ratings)
 ---
 
 # 🚀 PANDUAN PENGGUNAAN SISTEM
