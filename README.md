@@ -15,7 +15,7 @@
 
 # 🚀 PANDUAN PENGGUNAAN SISTEM
 Untuk menjalankan sistem pemodelan ini secara optimal, silakan ikuti langkah-langkah berikut:
-1. **Akses Notebook:** Klik badge Open In Colab berikut: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](LINK_COLAB_ANDA) (https://colab.research.google.com/drive/1NyI9-Qzkm8AuGzblO0VMZOpis4S_xg1K?usp=sharing).
+1. **Akses Notebook:** Klik badge Open In Colab berikut: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1NyI9-Qzkm8AuGzblO0VMZOpis4S_xg1K?usp=sharing).
 2. **Simpan Salinan:** Pilih menu File > _Save a copy in Drive_ agar Anda dapat mengedit dan menyimpan perubahan pada akun Google Anda sendiri.
 3. **Unggah Dataset:**
    - Klik ikon Files (gambar folder) pada sidebar sebelah kiri.
