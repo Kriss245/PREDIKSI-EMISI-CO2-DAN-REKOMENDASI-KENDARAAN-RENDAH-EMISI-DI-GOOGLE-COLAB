@@ -13,9 +13,15 @@
 - **Platform:** Google Colab.
 - **_Dataset:_** _Dataset_ ini bersifat publik terkait Emisi CO₂ kendaraan yang berasal dari platform Kaggle.
 
-# 🚀 CARA PENGGUNAAN
--
--
+# 🚀 PANDUAN PENGGUNAAN SISTEM
+Untuk menjalankan sistem pemodelan ini secara optimal, silakan ikuti langkah-langkah berikut:
+1. **Akses Notebook:** Klik badge Open In Colab berikut: [![Open In Colab] (https://colab.research.google.com/drive/1NyI9-Qzkm8AuGzblO0VMZOpis4S_xg1K?usp=sharing).
+2. **Simpan Salinan:** Pilih menu File > _Save a copy in Drive_ agar Anda dapat mengedit dan menyimpan perubahan pada akun Google Anda sendiri.
+3. **Unggah Dataset:**
+   - Klik ikon Files (gambar folder) pada sidebar sebelah kiri.
+   - Klik ikon Upload atau seret file dataset Anda ke dalam direktori `..` tersebut.
+4. **Eksekusi Program:** Jalankan seluruh sel kode dengan memilih menu `Runtime` > `Run All` atau gunakan pintasan keyboard `Ctrl + F9`.
+5. **Uji Coba Implementasi:** Setelah semua sel selesai dijalankan, Anda dapat langsung mencoba implementasi sistem dengan memasukkan spesifikasi kendaraan pada panel interaktif sesuai dengan preferensi Anda untuk melihat hasil prediksi dan rekomendasi secara real-time.
 
 ## 📃 Lisensi
 
