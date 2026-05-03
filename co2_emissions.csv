@@ -1,0 +1,834 @@
+Make,Model,Vehicle Class,Engine Size (L),Cylinders,Transmission,Fuel Type,Fuel Consumption (Comb) (L/100 km),CO2 Emissions (g/km)
+Acura,Integra,Full-size,1.5,4,AV7,Z,7.2,167
+Acura,Integra A-SPEC,Full-size,1.5,4,AV7,Z,7.4,172
+Acura,Integra A-SPEC,Full-size,1.5,4,M6,Z,7.8,181
+Acura,MDX SH-AWD,SUV: Small,3.5,6,AS10,Z,11.2,263
+Acura,MDX SH-AWD Type S,SUV: Standard,3,6,AS10,Z,12.4,291
+Acura,RDX SH-AWD,SUV: Small,2,4,AS10,Z,9.9,232
+Acura,RDX SH-AWD A-SPEC,SUV: Small,2,4,AS10,Z,10.3,242
+Acura,TLX SH-AWD,Compact,2,4,AS10,Z,9.8,230
+Acura,TLX SH-AWD A-SPEC,Compact,2,4,AS10,Z,9.8,231
+Acura,TLX Type S,Compact,3,6,AS10,Z,11,256
+Alfa Romeo,Giulia,Mid-size,2,4,A8,Z,8.7,205
+Alfa Romeo,Giulia AWD,Mid-size,2,4,A8,Z,9.2,217
+Alfa Romeo,Giulia Quadrifoglio,Mid-size,2.9,6,A8,Z,11.6,271
+Alfa Romeo,Stelvio,SUV: Small,2,4,A8,Z,9.3,218
+Alfa Romeo,Stelvio AWD,SUV: Small,2,4,A8,Z,9.6,226
+Alfa Romeo,Stelvio AWD Quadrifoglio,SUV: Small,2.9,6,A8,Z,12.3,288
+Alfa Romeo,Tonale AWD,SUV: Small,2,4,A9,X,9.8,231
+Aston Martin,DB11 V8,Minicompact,4,8,A8,Z,11.5,271
+Aston Martin,DB11 V12,Minicompact,5.2,12,A8,Z,13.8,324
+Aston Martin,DBS V12,Minicompact,5.2,12,A8,Z,13.8,324
+Aston Martin,DBX V8,SUV: Standard,4,8,A9,Z,14.6,343
+Aston Martin,DBX707,SUV: Standard,4,8,A9,Z,14,329
+Aston Martin,Vantage V8,Two-seater,4,8,A8,Z,11.5,270
+Aston Martin,V12 Vantage,Two-seater,5.2,12,A8,Z,14.3,337
+Audi,A3 40 TFSI quattro,Subcompact,2,4,AM7,X,7.9,183
+Audi,A4 Sedan 45 TFSI quattro,Compact,2,4,AM7,Z,8.7,203
+Audi,A4 allroad 45 TFSI quattro,Station wagon: Small,2,4,AM7,Z,9.1,214
+Audi,A5 Cabriolet 45 TFSI quattro,Subcompact,2,4,AM7,Z,8.9,208
+Audi,A5 Coup� 45 TFSI quattro,Subcompact,2,4,AM7,Z,8.7,203
+Audi,A5 Sportback 45 TFSI quattro,Mid-size,2,4,AM7,Z,8.7,203
+Audi,A6 45 TFSI quattro,Mid-size,2,4,AM7,Z,8.9,207
+Audi,A6 55 TFSI quattro,Mid-size,3,6,AM7,Z,9.6,224
+Audi,A6 allroad 55 TFSI quattro,Station wagon: Mid-size,3,6,AM7,Z,9.6,224
+Audi,A7 Sportback 55 TFSI quattro,Mid-size,3,6,AM7,Z,9.6,224
+Audi,A8 L Sedan 55 TFSI quattro,Full-size,3,6,AS8,Z,10.6,247
+Audi,Q3 40 TFSI quattro,SUV: Small,2,4,AS8,X,9.6,224
+Audi,Q3 45 TFSI quattro,SUV: Small,2,4,AS8,X,10,233
+Audi,Q5 40 TFSI quattro,SUV: Small,2,4,AM7,Z,9.3,217
+Audi,Q5 45 TFSI quattro,SUV: Small,2,4,AM7,Z,9.5,223
+Audi,Q5 Sportback 45 TFSI quattro,SUV: Small,2,4,AM7,Z,9.5,223
+Audi,Q7 45 TFSI quattro,SUV: Standard,2,4,AS8,Z,11,257
+Audi,Q7 55 TFSI quattro,SUV: Standard,3,6,AS8,Z,12,281
+Audi,Q8 55 TFSI quattro,SUV: Standard,3,6,AS8,Z,11.7,273
+Audi,R8 Coup� Performance,Two-seater,5.2,10,AM7,Z,13.7,320
+Audi,R8 Coup� Performance quattro,Two-seater,5.2,10,AM7,Z,15.5,361
+Audi,R8 Spyder Performance,Two-seater,5.2,10,AM7,Z,13.7,320
+Audi,R8 Spyder Performance quattro,Two-seater,5.2,10,AM7,Z,15.5,361
+Audi,R8 GT Coup�,Two-seater,5.2,10,AM7,Z,14,328
+Audi,RS 5 Coup� quattro,Subcompact,2.9,6,AS8,Z,11.4,266
+Audi,RS 5 Sportback quattro,Mid-size,2.9,6,AS8,Z,11.5,267
+Audi,RS 6 Avant quattro,Station wagon: Mid-size,4,8,AS8,Z,14.1,328
+Audi,RS 7 Sportback quattro,Mid-size,4,8,AS8,Z,14.1,328
+Audi,RS Q8 quattro,SUV: Standard,4,8,AS8,Z,15,349
+Audi,S3 quattro,Subcompact,2,4,AM7,Z,8.9,207
+Audi,S4 Sedan quattro,Compact,3,6,AS8,Z,9.7,226
+Audi,S5 Cabriolet quattro,Subcompact,3,6,AS8,Z,10,233
+Audi,S5 Coup� quattro,Subcompact,3,6,AS8,Z,9.7,226
+Audi,S5 Sportback quattro,Mid-size,3,6,AS8,Z,9.7,226
+Audi,S6 quattro,Mid-size,2.9,6,AS8,Z,10.8,254
+Audi,S7 quattro,Mid-size,2.9,6,AS8,Z,10.8,254
+Audi,S8 Sedan quattro,Full-size,4,8,AS8,Z,13.4,313
+Audi,SQ5 quattro,SUV: Small,3,6,AS8,Z,11.2,262
+Audi,SQ5 Sportback quattro,SUV: Small,3,6,AS8,Z,11.2,262
+Audi,SQ7 quattro,SUV: Standard,4,8,AS8,Z,13.9,325
+Audi,SQ8 quattro,SUV: Standard,4,8,AS8,Z,13.9,325
+Audi,TT Coup� 45 TFSI quattro,Subcompact,2,4,AM7,X,9.4,221
+Audi,TT Roadster 45 TFSI quattro,Two-seater,2,4,AM7,X,9.4,221
+Audi,TTS Coup� quattro,Subcompact,2,4,AM7,Z,9,209
+Bentley,Bentayga,SUV: Standard,4,8,AS8,Z,14,328
+Bentley,Bentayga EWB,SUV: Standard,4,8,AS8,Z,14,328
+Bentley,Bentayga Speed,SUV: Standard,6,12,AS8,Z,16.3,383
+Bentley,Continental GT,Subcompact,4,8,AM8,Z,13.1,307
+Bentley,Continental GT Speed,Subcompact,6,12,AM8,Z,16.2,379
+Bentley,Continental GTC,Minicompact,4,8,AM8,Z,13.4,315
+Bentley,Continental GTC Speed,Minicompact,6,12,AM8,Z,17,395
+Bentley,Flying Spur,Mid-size,4,8,AM8,Z,13.6,319
+Bentley,Flying Spur Speed,Mid-size,6,12,AM8,Z,16,373
+BMW,230i xDrive Coupe,Subcompact,2,4,AS8,Z,8.4,195
+BMW,330i xDrive Sedan,Compact,2,4,AS8,Z,8.6,200
+BMW,430i xDrive Cabriolet,Subcompact,2,4,AS8,Z,8.7,203
+BMW,430i xDrive Coupe,Subcompact,2,4,AS8,Z,8.7,203
+BMW,530i xDrive Sedan,Mid-size,2,4,AS8,Z,8.9,206
+BMW,540i xDrive Sedan,Mid-size,3,6,AS8,Z,9.4,219
+BMW,760i xDrive Sedan,Full-size,4.4,8,AS8,Z,11.3,261
+BMW,ALPINA B8 Gran Coupe,Mid-size,4.4,8,AS8,Z,12.2,284
+BMW,ALPINA XB7,SUV: Standard,4.4,8,AS8,Z,13.6,314
+BMW,M2 Coupe,Subcompact,3,6,AS8,Z,12.7,294
+BMW,M2 Coupe,Subcompact,3,6,M6,Z,12.4,287
+BMW,M240i xDrive Coupe,Subcompact,3,6,AS8,Z,9,210
+BMW,M3 Sedan,Compact,3,6,M6,Z,12.6,293
+BMW,M3 Competition M xDrive Sedan,Compact,3,6,AS8,Z,12.7,296
+BMW,M340i xDrive Sedan,Compact,3,6,AS8,Z,9,210
+BMW,M4 Competition M xDrive Cabriolet,Subcompact,3,6,AS8,Z,12.9,301
+BMW,M4 Coupe,Subcompact,3,6,M6,Z,12.6,293
+BMW,M4 Competition M xDrive Coupe,Subcompact,3,6,AS8,Z,12.7,296
+BMW,M4 CSL Coupe,Subcompact,3,6,AS8,Z,12.9,301
+BMW,M440i xDrive Cabriolet,Subcompact,3,6,AS8,Z,9.3,216
+BMW,M440i xDrive Coupe,Subcompact,3,6,AS8,Z,9.3,216
+BMW,M5 Sedan,Mid-size,4.4,8,AS8,Z,13.8,324
+BMW,M5 Competition Sedan,Mid-size,4.4,8,AS8,Z,13.8,324
+BMW,M550i xDrive Sedan,Mid-size,4.4,8,AS8,Z,12,277
+BMW,M8 Competition Cabriolet,Subcompact,4.4,8,AS8,Z,13.7,321
+BMW,M8 Competition Coupe,Subcompact,4.4,8,AS8,Z,13.7,321
+BMW,M8 Competition Gran Coupe,Mid-size,4.4,8,AS8,Z,13.7,321
+BMW,M850i xDrive Cabriolet,Subcompact,4.4,8,AS8,Z,12.2,284
+BMW,M850i xDrive Coupe,Subcompact,4.4,8,AS8,Z,12.2,284
+BMW,M850i xDrive Gran Coupe,Mid-size,4.4,8,AS8,Z,12.2,284
+BMW,X1 xDrive28i,SUV: Small,2,4,AM7,Z,8.4,195
+BMW,X3 xDrive30i,SUV: Small,2,4,AS8,Z,9.9,229
+BMW,X3 M,SUV: Small,3,6,AS8,Z,13.9,323
+BMW,X3 M Competition,SUV: Small,3,6,AS8,Z,13.9,323
+BMW,X3 M40i,SUV: Small,3,6,AS8,Z,10.1,235
+BMW,X4 xDrive30i,SUV: Small,2,4,AS8,Z,9.9,229
+BMW,X4 M,SUV: Small,3,6,AS8,Z,13.9,323
+BMW,X4 M Competition,SUV: Small,3,6,AS8,Z,13.9,323
+BMW,X4 M40i,SUV: Small,3,6,AS8,Z,10.1,235
+BMW,X5 xDrive40i,SUV: Standard,3,6,AS8,Z,10.4,242
+BMW,X5 M,SUV: Standard,4.4,8,AS8,Z,15.7,364
+BMW,X5 M Competition,SUV: Standard,4.4,8,AS8,Z,15.7,364
+BMW,X5 M50i,SUV: Standard,4.4,8,AS8,Z,13,302
+BMW,X6 xDrive40i,SUV: Standard,3,6,AS8,Z,10.4,242
+BMW,X6 M,SUV: Standard,4.4,8,AS8,Z,15.7,364
+BMW,X6 M Competition,SUV: Standard,4.4,8,AS8,Z,15.7,364
+BMW,X6 M50i,SUV: Standard,4.4,8,AS8,Z,13,302
+BMW,X7 xDrive40i,SUV: Standard,3,6,AS8,Z,10.5,243
+BMW,X7 M60i xDrive,SUV: Standard,4.4,8,AS8,Z,12.9,299
+BMW,Z4 sDrive30i,Two-seater,2,4,AS8,Z,8.4,194
+BMW,Z4 M40i,Two-seater,3,6,AS8,Z,9.1,210
+Bugatti,Chiron,Two-seater,8,16,AM7,Z,22.2,522
+Bugatti,Chiron Pur Sport,Two-seater,8,16,AM7,Z,26.1,608
+Bugatti,Chiron Super Sport,Two-seater,8,16,AM7,Z,26.1,608
+Buick,Enclave AWD,SUV: Standard,3.6,6,A9,X,11.8,277
+Buick,Encore GX,SUV: Small,1.2,3,AV,X,7.8,184
+Buick,Encore GX,SUV: Small,1.3,3,AV,X,7.9,185
+Buick,Encore GX AWD,SUV: Small,1.3,3,A9,X,8.6,202
+Buick,Envision,SUV: Small,2,4,AS9,X,9,211
+Buick,Envision AWD,SUV: Small,2,4,AS9,X,9.5,222
+Cadillac,CT4,Compact,2,4,AS8,Z,8.8,206
+Cadillac,CT4,Compact,2.7,4,AS10,Z,9.5,221
+Cadillac,CT4 AWD,Compact,2,4,AS8,Z,9.2,216
+Cadillac,CT4 AWD,Compact,2.7,4,AS10,Z,9.9,231
+Cadillac,CT4-V,Compact,2.7,4,AS10,Z,10.2,239
+Cadillac,CT4-V AWD,Compact,2.7,4,AS10,Z,10.4,244
+Cadillac,CT4-V Blackwing,Compact,3.6,6,AS10,Z,12.6,297
+Cadillac,CT4-V Blackwing,Compact,3.6,6,M6,Z,13,303
+Cadillac,CT5,Mid-size,2,4,AS10,Z,8.8,207
+Cadillac,CT5,Mid-size,3,6,AS10,Z,10.7,252
+Cadillac,CT5 AWD,Mid-size,2,4,AS10,Z,9.5,222
+Cadillac,CT5 AWD,Mid-size,3,6,AS10,Z,11.3,265
+Cadillac,CT5-V,Mid-size,3,6,AS10,Z,11.2,263
+Cadillac,CT5-V AWD,Mid-size,3,6,AS10,Z,11.3,265
+Cadillac,CT5-V Blackwing,Mid-size,6.2,8,AS10,Z,14.8,347
+Cadillac,CT5-V Blackwing,Mid-size,6.2,8,M6,Z,15.2,368
+Cadillac,Escalade 4WD,SUV: Standard,3,6,A10,D,10.5,281
+Cadillac,Escalade 4WD,SUV: Standard,6.2,8,A10,Z,15,352
+Cadillac,Escalade-V AWD,SUV: Standard,6.2,8,AS10,Z,18.6,436
+Cadillac,XT4,SUV: Small,2,4,AS9,Z,9.1,214
+Cadillac,XT4 AWD,SUV: Small,2,4,AS9,Z,9.7,228
+Cadillac,XT5,SUV: Small,2,4,AS9,Z,9.7,228
+Cadillac,XT5 AWD,SUV: Small,2,4,AS9,Z,10.1,237
+Cadillac,XT5 AWD,SUV: Small,3.6,6,AS9,X,11.3,265
+Cadillac,XT6 AWD,SUV: Small,2,4,AS9,Z,10.2,239
+Cadillac,XT6 AWD,SUV: Small,3.6,6,AS9,X,11.5,269
+Chevrolet,Blazer,SUV: Small,2,4,A9,X,9.4,227
+Chevrolet,Blazer AWD,SUV: Small,2,4,A9,X,9.9,232
+Chevrolet,Blazer AWD,SUV: Small,3.6,6,A9,X,11,259
+Chevrolet,Camaro,Subcompact,2,4,AS8,Z,9.5,222
+Chevrolet,Camaro,Subcompact,2,4,M6,Z,10.7,249
+Chevrolet,Camaro,Subcompact,3.6,6,AS10,X,10.7,253
+Chevrolet,Camaro,Subcompact,3.6,6,M6,X,12,281
+Chevrolet,Camaro SS,Subcompact,6.2,8,AS10,Z,12,281
+Chevrolet,Camaro SS,Subcompact,6.2,8,M6,Z,12.6,297
+Chevrolet,Camaro ZL1,Subcompact,6.2,8,AS10,Z,15.1,355
+Chevrolet,Camaro ZL1,Subcompact,6.2,8,M6,Z,14.9,349
+Chevrolet,Colorado,Pickup truck: Small,2.7,4,A8,X,10.7,252
+Chevrolet,Colorado (Turbo Plus),Pickup truck: Small,2.7,4,A8,X,11.8,277
+Chevrolet,Colorado 4WD,Pickup truck: Small,2.7,4,A8,X,11.3,265
+Chevrolet,Colorado 4WD (Turbo Plus),Pickup truck: Small,2.7,4,A8,X,12.4,290
+Chevrolet,Colorado 4WD Mud Terrain Tire (Turbo Plus),Pickup truck: Small,2.7,4,A8,X,13.1,307
+Chevrolet,Colorado ZR2 4WD,Pickup truck: Small,2.7,4,A8,X,14.3,335
+Chevrolet,Corvette,Two-seater,6.2,8,AS8,Z,12.7,299
+Chevrolet,Corvette Z06,Two-seater,5.5,8,AS8,Z,15.8,371
+Chevrolet,Corvette Z06 Carbon Aero,Two-seater,5.5,8,AS8,Z,16.7,392
+Chevrolet,Equinox,SUV: Small,1.5,4,A6,X,8.4,197
+Chevrolet,Equinox AWD,SUV: Small,1.5,4,A6,X,9,211
+Chevrolet,Malibu,Mid-size,1.5,4,AV,X,7.8,181
+Chevrolet,Silverado,Pickup truck: Standard,2.7,4,A8,X,12,281
+Chevrolet,Silverado,Pickup truck: Standard,3,6,A10,D,9.2,247
+Chevrolet,Silverado,Pickup truck: Standard,5.3,8,A10,X,12.7,298
+Chevrolet,Silverado FFV,Pickup truck: Standard,5.3,8,A10,X,13.1,308
+Chevrolet,Silverado FFV,Pickup truck: Standard,5.3,8,A10,E,17.7,293
+Chevrolet,Silverado 4WD,Pickup truck: Standard,2.7,4,A8,X,12.2,288
+Chevrolet,Silverado 4WD Mud Terrain Tire,Pickup truck: Standard,2.7,4,A8,X,13.6,318
+Chevrolet,Silverado 4WD,Pickup truck: Standard,3,6,A10,D,9.8,264
+Chevrolet,Silverado 4WD Mud Terrain Tire,Pickup truck: Standard,3,6,A10,D,10.7,288
+Chevrolet,Silverado 4WD,Pickup truck: Standard,5.3,8,A10,X,13.5,325
+Chevrolet,Silverado 4WD FFV,Pickup truck: Standard,5.3,8,A10,X,13.9,326
+Chevrolet,Silverado 4WD FFV,Pickup truck: Standard,5.3,8,A10,E,19.2,318
+Chevrolet,Silverado 4WD Mud Terrain Tire,Pickup truck: Standard,5.3,8,A10,X,14.6,343
+Chevrolet,Silverado 4WD Mud Terrain Tire FFV,Pickup truck: Standard,5.3,8,A10,X,13.9,326
+Chevrolet,Silverado 4WD Mud Terrain Tire FFV,Pickup truck: Standard,5.3,8,A10,E,19.2,318
+Chevrolet,Silverado 4WD,Pickup truck: Standard,6.2,8,A10,Z,13.6,319
+Chevrolet,Silverado 4WD Mud Terrain Tire,Pickup truck: Standard,6.2,8,A10,Z,14.9,349
+Chevrolet,Silverado 4WD ZR2,Pickup truck: Standard,6.2,8,A10,Z,15.5,364
+Chevrolet,Suburban,SUV: Standard,3,6,A10,D,10.1,272
+Chevrolet,Suburban,SUV: Standard,5.3,8,A10,X,14,327
+Chevrolet,Suburban 4WD,SUV: Standard,3,6,A10,D,10.5,281
+Chevrolet,Suburban 4WD,SUV: Standard,5.3,8,A10,X,14.5,339
+Chevrolet,Suburban 4WD,SUV: Standard,6.2,8,A10,Z,15,352
+Chevrolet,Tahoe,SUV: Standard,3,6,A10,D,9.9,265
+Chevrolet,Tahoe,SUV: Standard,5.3,8,A10,X,14,327
+Chevrolet,Tahoe 4WD,SUV: Standard,3,6,A10,D,10.5,281
+Chevrolet,Tahoe 4WD,SUV: Standard,5.3,8,A10,X,14,327
+Chevrolet,Tahoe 4WD,SUV: Standard,6.2,8,A10,Z,15,352
+Chevrolet,Trailblazer,SUV: Small,1.2,3,AV,X,7.8,184
+Chevrolet,Trailblazer,SUV: Small,1.3,3,AV,X,7.7,180
+Chevrolet,Trailblazer AWD,SUV: Small,1.3,3,A9,X,8.4,197
+Chevrolet,Traverse AWD,SUV: Standard,3.6,6,A9,X,11.8,277
+Chrysler,300,Full-size,3.6,6,A8,X,10.3,242
+Chrysler,300,Full-size,5.7,8,A8,X,12.3,289
+Chrysler,300 AWD,Full-size,3.6,6,A8,X,11,258
+Chrysler,300C,Full-size,6.4,8,A8,Z,13.1,307
+Chrysler,Grand Caravan,Minivan,3.6,6,A9,X,10.6,249
+Chrysler,Pacifica,Minivan,3.6,6,A9,X,10.6,249
+Chrysler,Pacifica AWD,Minivan,3.6,6,A9,X,12,279
+Dodge,Challenger,Mid-size,3.6,6,A8,X,10.3,242
+Dodge,Challenger (MDS),Mid-size,5.7,8,A8,X,12.3,289
+Dodge,Challenger,Mid-size,5.7,8,M6,Z,13.1,307
+Dodge,Challenger (MDS),Mid-size,6.4,8,A8,Z,13.1,307
+Dodge,Challenger,Mid-size,6.4,8,M6,Z,13.9,325
+Dodge,Challenger AWD,Mid-size,3.6,6,A8,X,11,258
+Dodge,Challenger Widebody (MDS),Mid-size,6.4,8,A8,Z,13.1,307
+Dodge,Challenger Widebody,Mid-size,6.4,8,M6,Z,13.9,325
+Dodge,Challenger SRT Hellcat,Mid-size,6.2,8,A8,Z,14.5,339
+Dodge,Challenger SRT Hellcat,Mid-size,6.2,8,M6,Z,15.1,352
+Dodge,Challenger SRT Hellcat Widebody,Mid-size,6.2,8,A8,Z,15.4,359
+Dodge,Challenger SRT Hellcat Widebody,Mid-size,6.2,8,M6,Z,15.1,352
+Dodge,Charger,Full-size,3.6,6,A8,X,10.3,242
+Dodge,Charger (MDS),Full-size,5.7,8,A8,X,12.3,289
+Dodge,Charger (MDS),Full-size,6.4,8,A8,Z,13.1,307
+Dodge,Charger AWD,Full-size,3.6,6,A8,X,11,258
+Dodge,Charger Widebody (MDS),Full-size,6.4,8,A8,Z,13.1,307
+Dodge,Charger SRT Hellcat Widebody,Full-size,6.2,8,A8,Z,15.6,368
+Dodge,Durango AWD,SUV: Standard,3.6,6,A8,X,11.3,266
+Dodge,Durango AWD,SUV: Standard,5.7,8,A8,X,14.1,331
+Dodge,Durango AWD SRT,SUV: Standard,6.4,8,A8,Z,15.6,363
+Dodge,Durango AWD SRT Hellcat,SUV: Standard,6.2,8,A8,Z,17.4,410
+Dodge,Hornet AWD,SUV: Small,2,4,A9,X,9.9,231
+FIAT,500X AWD,SUV: Small,1.3,4,A9,X,9.1,221
+Ford,Bronco 4WD,SUV: Small,2.3,4,AS10,X,11.6,273
+Ford,Bronco 4WD,SUV: Small,2.3,4,M7,X,11.6,272
+Ford,Bronco 4WD,SUV: Small,2.7,6,AS10,X,12,283
+Ford,Bronco Badlands 4WD,SUV: Small,2.3,4,AS10,X,13.8,324
+Ford,Bronco Badlands 4WD,SUV: Small,2.3,4,M7,X,14.3,336
+Ford,Bronco Badlands 4WD,SUV: Small,2.7,6,AS10,X,14.1,331
+Ford,Bronco Black Diamond 4WD,SUV: Small,2.3,4,AS10,X,13.1,308
+Ford,Bronco Black Diamond 4WD,SUV: Small,2.3,4,M7,X,14,329
+Ford,Bronco Black Diamond 4WD,SUV: Small,2.7,6,AS10,X,13.1,308
+Ford,Bronco Raptor 4WD,SUV: Standard,3,6,AS10,X,15.3,358
+Ford,Bronco Sasquatch 4WD,SUV: Small,2.3,4,AS10,X,13.4,314
+Ford,Bronco Sasquatch 4WD,SUV: Small,2.3,4,M7,X,14,329
+Ford,Bronco Sasquatch 4WD,SUV: Small,2.7,6,AS10,X,14.1,331
+Ford,Bronco Sport 4WD,SUV: Small,1.5,3,A8,X,8.9,209
+Ford,Bronco Sport 4WD,SUV: Small,2,4,AS8,X,10.2,240
+Ford,Edge AWD,SUV: Small,2,4,A8,X,10.2,239
+Ford,Edge AWD,SUV: Small,2,4,AS8,X,10.1,238
+Ford,Edge AWD,SUV: Small,2.7,6,AS8,X,11.2,262
+Ford,Escape,SUV: Small,1.5,3,A8,X,8,188
+Ford,Escape AWD,SUV: Small,1.5,3,A8,X,8.4,197
+Ford,Escape AWD,SUV: Small,2,4,A8,X,9.1,211
+Ford,Escape Hybrid,SUV: Small,2.5,4,AV,X,6,140
+Ford,Escape Hybrid AWD,SUV: Small,2.5,4,AV,X,6,140
+Ford,Expedition 4X4,SUV: Standard,3.5,6,AS10,X,12.9,302
+Ford,Expedition 4X4 (Without Stop-Start),SUV: Standard,3.5,6,AS10,X,13.5,318
+Ford,Expedition Timberline 4X4,SUV: Standard,3.5,6,AS10,X,13.5,318
+Ford,Expedition Timberline 4X4 (Without Stop-Start),SUV: Standard,3.5,6,AS10,X,13.9,327
+Ford,Explorer AWD,SUV: Standard,2.3,4,A10,X,10.3,241
+Ford,Explorer AWD (Without Stop-Start),SUV: Standard,2.3,4,A10,X,10.7,251
+Ford,Explorer AWD,SUV: Standard,3,6,A10,X,11.8,277
+Ford,Explorer AWD (Without Stop-Start),SUV: Standard,3,6,A10,X,11.9,280
+Ford,Explorer AWD,SUV: Standard,3,6,AS10,X,11.8,277
+Ford,Explorer AWD (Without Stop-Start),SUV: Standard,3,6,AS10,X,12,282
+Ford,Explorer Timberline AWD,SUV: Standard,2.3,4,AS10,X,11.5,269
+Ford,Explorer Timberline AWD (Without Stop-Start),SUV: Standard,2.3,4,AS10,X,11.8,277
+Ford,Explorer Hybrid AWD,SUV: Standard,3.3,6,A10,X,9.6,225
+Ford,F-150,Pickup truck: Standard,2.7,6,AS10,X,10.7,252
+Ford,F-150 (Without Stop-Start),Pickup truck: Standard,2.7,6,AS10,X,11.5,269
+Ford,F-150 FFV,Pickup truck: Standard,3.3,6,AS10,X,11.1,261
+Ford,F-150 FFV,Pickup truck: Standard,3.3,6,AS10,E,15,244
+Ford,F-150 FFV (Without Stop-Start),Pickup truck: Standard,3.3,6,AS10,X,11.5,268
+Ford,F-150 FFV (Without Stop-Start),Pickup truck: Standard,3.3,6,AS10,E,15.2,253
+Ford,F-150,Pickup truck: Standard,3.5,6,AS10,X,12,281
+Ford,F-150 FFV,Pickup truck: Standard,5,8,AS10,X,12.4,291
+Ford,F-150 FFV,Pickup truck: Standard,5,8,AS10,E,16.6,270
+Ford,F-150 FFV (Without Stop-Start),Pickup truck: Standard,5,8,AS10,X,12.7,300
+Ford,F-150 FFV (Without Stop-Start),Pickup truck: Standard,5,8,AS10,E,17.2,279
+Ford,F-150 4X4,Pickup truck: Standard,2.7,6,AS10,X,11.5,271
+Ford,F-150 4X4 (Without Stop-Start),Pickup truck: Standard,2.7,6,AS10,X,12,280
+Ford,F-150 4X4 FFV,Pickup truck: Standard,3.3,6,AS10,X,11.8,277
+Ford,F-150 4X4 FFV,Pickup truck: Standard,3.3,6,AS10,E,15.3,247
+Ford,F-150 4X4,Pickup truck: Standard,3.5,6,AS10,X,12.1,284
+Ford,F-150 4X4 (Without Stop-Start),Pickup truck: Standard,3.5,6,AS10,X,13,308
+Ford,F-150 4X4 FFV,Pickup truck: Standard,5,8,AS10,X,12.7,298
+Ford,F-150 4X4 FFV,Pickup truck: Standard,5,8,AS10,E,17.1,278
+Ford,F-150 4X4 FFV (Without Stop-Start),Pickup truck: Standard,5,8,AS10,X,13.2,309
+Ford,F-150 4X4 FFV (Without Stop-Start),Pickup truck: Standard,5,8,AS10,E,17.6,286
+Ford,F-150 Raptor 4X4,Pickup truck: Standard,3.5,6,AS10,X,14.6,344
+Ford,F-150 Raptor 4X4 (Without Stop-Start),Pickup truck: Standard,3.5,6,AS10,X,15.2,357
+Ford,F-150 Raptor 37 4X4,Pickup truck: Standard,3.5,6,AS10,X,15.3,359
+Ford,F-150 Raptor 37 4X4 (Without Stop-Start),Pickup truck: Standard,3.5,6,AS10,X,15.8,370
+Ford,F-150 Raptor R 4X4,Pickup truck: Standard,5.2,8,AS10,X,19.7,460
+Ford,F-150 Tremor 4X4,Pickup truck: Standard,3.5,6,AS10,X,13.1,309
+Ford,F-150 Tremor 4X4 (Without Stop-Start),Pickup truck: Standard,3.5,6,AS10,X,13.3,311
+Ford,F-150 Tremor 4X4 FFV,Pickup truck: Standard,5,8,AS10,X,13.7,321
+Ford,F-150 Tremor 4X4 FFV,Pickup truck: Standard,5,8,AS10,E,18,295
+Ford,F-150 Tremor 4X4 FFV (Without Stop-Start),Pickup truck: Standard,5,8,AS10,X,13.8,322
+Ford,F-150 Tremor 4X4 FFV (Without Stop-Start),Pickup truck: Standard,5,8,AS10,E,18.1,298
+Ford,F-150 Hybrid,Pickup truck: Standard,3.5,6,AS10,X,10.1,236
+Ford,F-150 Hybrid 4X4,Pickup truck: Standard,3.5,6,AS10,X,10.4,245
+Ford,Maverick AWD,Pickup truck: Small,2,4,A8,X,9.8,230
+Ford,Maverick Tremor AWD,Pickup truck: Small,2,4,A8,X,11,257
+Ford,Maverick Hybrid,Pickup truck: Small,2.5,4,AV,X,6.4,149
+Ford,Mustang,Subcompact,2.3,4,A10,X,9.3,220
+Ford,Mustang,Subcompact,2.3,4,AS10,X,10,235
+Ford,Mustang (High Performance),Subcompact,2.3,4,AS10,X,10.3,242
+Ford,Mustang,Subcompact,2.3,4,M6,X,10.1,238
+Ford,Mustang (High Performance),Subcompact,2.3,4,M6,X,10.5,246
+Ford,Mustang,Subcompact,5,8,AS10,X,12.7,299
+Ford,Mustang,Subcompact,5,8,M6,X,13.5,317
+Ford,Mustang Convertible,Subcompact,2.3,4,A10,X,10.2,240
+Ford,Mustang Convertible,Subcompact,2.3,4,AS10,X,10.4,244
+Ford,Mustang Convertible (High Performance),Subcompact,2.3,4,AS10,X,10.7,252
+Ford,Mustang Convertible,Subcompact,2.3,4,M6,X,10.4,244
+Ford,Mustang Convertible (High Performance),Subcompact,2.3,4,M6,X,10.9,256
+Ford,Mustang Convertible,Subcompact,5,8,AS10,X,13.4,313
+Ford,Mustang Mach 1,Subcompact,5,8,AS10,X,12.9,303
+Ford,Mustang Mach 1,Subcompact,5,8,M6,X,14.6,343
+Ford,Ranger 4WD,Pickup truck: Standard,2.3,4,AS10,X,10.8,255
+Ford,Ranger 4WD (Without Stop-Start),Pickup truck: Standard,2.3,4,AS10,X,11.1,261
+Ford,Ranger Tremor 4WD,Pickup truck: Standard,2.3,4,AS10,X,12.4,293
+Ford,Transit Connect Van,Special purpose vehicle,2,4,AS8,X,9.4,221
+Ford,Transit Connect Wagon LWB,Special purpose vehicle,2,4,AS8,X,9.2,216
+Genesis,G70 AWD,Compact,2,4,AS8,Z,10,236
+Genesis,G70 AWD,Compact,3.3,6,AS8,Z,11.5,273
+Genesis,G80 AWD,Full-size,2.5,4,AS8,Z,9.5,225
+Genesis,G80 AWD,Full-size,3.5,6,AS8,Z,12.6,298
+Genesis,G90,Full-size,3.5,6,AM8,Z,11.8,274
+Genesis,GV70 AWD,SUV: Small,2.5,4,AS8,Z,9.7,229
+Genesis,GV70 AWD,SUV: Small,3.5,6,AS8,Z,11.6,275
+Genesis,GV80 AWD,SUV: Standard,2.5,4,AS8,Z,10.5,248
+Genesis,GV80 AWD,SUV: Standard,3.5,6,AS8,Z,11.8,279
+GMC,Acadia AWD,SUV: Standard,2,4,A9,X,9.9,232
+GMC,Acadia AWD,SUV: Standard,3.6,6,A9,X,11,259
+GMC,Canyon,Pickup truck: Small,2.7,4,A8,X,11.8,277
+GMC,Canyon 4WD,Pickup truck: Small,2.7,4,A8,X,12.4,290
+GMC,Canyon 4WD Mud Terrain Tire,Pickup truck: Small,2.7,4,A8,X,13.1,308
+GMC,Canyon AT4X 4WD,Pickup truck: Small,2.7,4,A8,X,14.3,335
+GMC,Sierra,Pickup truck: Standard,2.7,4,A8,X,12,281
+GMC,Sierra,Pickup truck: Standard,3,6,A10,D,9.2,247
+GMC,Sierra,Pickup truck: Standard,5.3,8,A10,X,12.9,303
+GMC,Sierra FFV,Pickup truck: Standard,5.3,8,A10,X,13.1,308
+GMC,Sierra FFV,Pickup truck: Standard,5.3,8,A10,E,17.7,293
+GMC,Sierra 4WD,Pickup truck: Standard,2.7,4,A8,X,12.4,291
+GMC,Sierra 4WD Mud Terrain Tire,Pickup truck: Standard,2.7,4,A8,X,13.6,318
+GMC,Sierra 4WD,Pickup truck: Standard,3,6,A10,D,9.8,264
+GMC,Sierra 4WD Mud Terrain Tire,Pickup truck: Standard,3,6,A10,D,10.7,288
+GMC,Sierra 4WD,Pickup truck: Standard,5.3,8,A10,X,13.5,325
+GMC,Sierra 4WD FFV,Pickup truck: Standard,5.3,8,A10,X,13.9,326
+GMC,Sierra 4WD FFV,Pickup truck: Standard,5.3,8,A10,E,19.2,318
+GMC,Sierra 4WD Mud Terrain Tire,Pickup truck: Standard,5.3,8,A10,X,14.8,346
+GMC,Sierra 4WD Mud Terrain Tire FFV,Pickup truck: Standard,5.3,8,A10,X,13.9,326
+GMC,Sierra 4WD Mud Terrain Tire FFV,Pickup truck: Standard,5.3,8,A10,E,19.2,318
+GMC,Sierra 4WD,Pickup truck: Standard,6.2,8,A10,Z,14,330
+GMC,Sierra 4WD Mud Terrain Tire,Pickup truck: Standard,6.2,8,A10,Z,15.5,364
+GMC,Sierra 4WD AT4X,Pickup truck: Standard,6.2,8,A10,Z,15.5,364
+GMC,Terrain,SUV: Small,1.5,4,A9,X,9,211
+GMC,Terrain AWD,SUV: Small,1.5,4,A9,X,9.2,216
+GMC,Yukon,SUV: Standard,3,6,A10,D,10.1,272
+GMC,Yukon,SUV: Standard,5.3,8,A10,X,14,327
+GMC,Yukon 4WD,SUV: Standard,3,6,A10,D,10.5,281
+GMC,Yukon 4WD,SUV: Standard,5.3,8,A10,X,14,327
+GMC,Yukon 4WD,SUV: Standard,6.2,8,A10,Z,15,352
+GMC,Yukon XL,SUV: Standard,3,6,A10,D,10.1,272
+GMC,Yukon XL,SUV: Standard,5.3,8,A10,X,14,327
+GMC,Yukon XL 4WD,SUV: Standard,3,6,A10,D,10.5,281
+GMC,Yukon XL 4WD,SUV: Standard,5.3,8,A10,X,14.5,339
+GMC,Yukon XL 4WD,SUV: Standard,6.2,8,A10,Z,15,352
+Honda,Accord,Full-size,1.5,4,AV,X,7.3,171
+Honda,Accord Hybrid Sport/Touring,Mid-size,2,4,AV,X,5.3,124
+Honda,Civic Hatchback,Full-size,1.5,4,AV7,X,7.1,166
+Honda,Civic Hatchback,Full-size,1.5,4,M6,X,7.5,175
+Honda,Civic Hatchback,Full-size,2,4,AV,X,7.2,167
+Honda,Civic Hatchback,Full-size,2,4,M6,X,8,186
+Honda,Civic Sedan,Mid-size,1.5,4,AV7,X,6.9,162
+Honda,Civic Sedan,Mid-size,2,4,AV,X,6.9,162
+Honda,Civic Sedan,Mid-size,2,4,AV7,X,7.1,165
+Honda,Civic Sedan Si,Mid-size,1.5,4,M6,Z,7.7,180
+Honda,Civic Type R,Full-size,2,4,M6,Z,9.7,224
+Honda,CR-V,SUV: Small,1.5,4,AV,X,7.8,181
+Honda,CR-V AWD,SUV: Small,1.5,4,AV,X,8.4,197
+Honda,CR-V Hybrid AWD,SUV: Small,2,4,AV,X,6.4,151
+Honda,HR-V,Station wagon: Small,2,4,AV,X,8.3,194
+Honda,HR-V AWD,Station wagon: Small,2,4,AV,X,8.7,203
+Honda,Odyssey,Minivan,3.5,6,AS10,X,10.6,248
+Honda,Passport AWD,SUV: Small,3.5,6,AS9,X,11.3,265
+Honda,Pilot AWD,SUV: Standard,3.5,6,AS10,X,11,258
+Honda,Pilot AWD Touring/Elite/Black,SUV: Standard,3.5,6,AS10,X,11.2,262
+Honda,Pilot AWD TrailSport,SUV: Standard,3.5,6,AS10,X,11.8,275
+Honda,Ridgeline AWD,Pickup truck: Standard,3.5,6,AS9,X,11.5,271
+Hyundai,Elantra,Mid-size,1.6,4,AM7,X,7.6,179
+Hyundai,Elantra,Mid-size,2,4,AV1,X,6.7,158
+Hyundai,Elantra (ISG),Mid-size,2,4,AV1,X,6.4,151
+Hyundai,Elantra N,Mid-size,2,4,AM8,Z,10.2,241
+Hyundai,Elantra N,Mid-size,2,4,M6,Z,9.4,223
+Hyundai,Elantra Hybrid,Mid-size,1.6,4,AM6,X,4.7,110
+Hyundai,Kona,SUV: Small,2,4,AV,X,7.4,174
+Hyundai,Kona N,SUV: Small,2,4,AM8,Z,10.4,246
+Hyundai,Kona AWD,SUV: Small,1.6,4,AM7,X,8.2,193
+Hyundai,Kona AWD,SUV: Small,2,4,AV,X,7.9,187
+Hyundai,Palisade AWD,SUV: Small,3.8,6,AS8,X,11.2,263
+Hyundai,Santa Cruz AWD,Pickup truck: Small,2.5,4,AM8,X,10.6,250
+Hyundai,Santa Fe AWD,SUV: Small,2.5,4,AM8,X,9.9,233
+Hyundai,Santa Fe AWD,SUV: Small,2.5,4,AS8,X,10,235
+Hyundai,Santa Fe Hybrid,SUV: Small,1.6,4,AM6,X,7.4,176
+Hyundai,Sonata,Full-size,1.6,4,AS8,X,7.9,186
+Hyundai,Sonata,Full-size,2.5,4,AM8,X,8.8,208
+Hyundai,Sonata,Full-size,2.5,4,AS8,X,7.7,182
+Hyundai,Sonata Hybrid,Full-size,2,4,AM6,X,5,117
+Hyundai,Tucson,SUV: Small,2.5,4,AS8,X,8.5,200
+Hyundai,Tucson AWD,SUV: Small,2.5,4,AS8,X,9.3,218
+Hyundai,Tucson Hybrid,SUV: Small,1.6,4,AM6,X,6.4,152
+Hyundai,Venue,Mid-size,1.6,4,AV1,X,7.5,177
+Infiniti,Q50 AWD,Mid-size,3,6,AS7,Z,10.8,254
+Infiniti,Q50 AWD Red Sport,Mid-size,3,6,AS7,Z,11.1,261
+Infiniti,QX50 AWD,SUV: Small,2,4,AV8,Z,9.7,228
+Infiniti,QX55 AWD,SUV: Small,2,4,AV8,Z,9.4,222
+Infiniti,QX60 AWD,SUV: Standard,3.5,6,AS9,Z,10.7,251
+Infiniti,QX80 4WD,SUV: Standard,5.6,8,AS7,Z,15.1,355
+Jaguar,E-PACE P250,SUV: Small,2,4,AS9,Z,10.4,247
+Jaguar,F-PACE P250,SUV: Small,2,4,AS8,Z,9.9,227
+Jaguar,F-PACE P400,SUV: Small,3,6,AS8,Z,10.8,253
+Jaguar,F-PACE P550 SVR,SUV: Small,5,8,AS8,Z,13.4,316
+Jaguar,F-TYPE P450 Convertible,Two-seater,5,8,AS8,Z,12.1,286
+Jaguar,F-TYPE P450 Convertible AWD,Two-seater,5,8,AS8,Z,12.7,299
+Jaguar,F-TYPE P450 Coupe,Two-seater,5,8,AS8,Z,12.1,286
+Jaguar,F-TYPE P450 Coupe AWD,Two-seater,5,8,AS8,Z,12.7,299
+Jaguar,F-TYPE R Convertible AWD,Two-seater,5,8,AS8,Z,12.7,299
+Jaguar,F-TYPE R Coupe AWD,Two-seater,5,8,AS8,Z,12.7,299
+Jaguar,XF P250,Mid-size,2,4,AS8,Z,8.4,197
+Jaguar,XF P300 AWD,Mid-size,2,4,AS8,Z,9.3,219
+Jeep,Cherokee 4X4 Active Drive I,SUV: Small,2.4,4,A9,X,9.8,230
+Jeep,Cherokee 4X4 Trailhawk Active Drive Lock,SUV: Small,2,4,A9,X,10.6,249
+Jeep,Compass 4X4,SUV: Small,2,4,A8,X,8.8,205
+Jeep,Gladiator 4X4 EcoDiesel,Pickup truck: Standard,3,6,A8,D,9.8,263
+Jeep,Gladiator 4X4 Rubicon EcoDiesel,Pickup truck: Standard,3,6,A8,D,10,271
+Jeep,Gladiator 4X4,Pickup truck: Standard,3.6,6,A8,X,12.3,290
+Jeep,Gladiator 4X4,Pickup truck: Standard,3.6,6,M6,X,12.6,296
+Jeep,Grand Cherokee 4X4,SUV: Standard,3.6,6,A8,X,10.9,256
+Jeep,Grand Cherokee 4X4,SUV: Standard,5.7,8,A8,X,14.1,331
+Jeep,Grand Cherokee L 4X4,SUV: Standard,3.6,6,A8,X,11.3,266
+Jeep,Grand Cherokee L 4X4,SUV: Standard,5.7,8,A8,X,14.1,331
+Jeep,Grand Wagoneer 4X4 (High Output),SUV: Standard,3,6,A8,Z,14.3,334
+Jeep,Grand Wagoneer 4X4,SUV: Standard,6.4,8,A8,Z,16,374
+Jeep,Grand Wagoneer L 4X4 (High Output),SUV: Standard,3,6,A8,Z,15,352
+Jeep,Renegade 4X4,SUV: Small,1.3,4,A9,X,9.2,222
+Jeep,Renegade 4X4 Trailhawk,SUV: Small,1.3,4,A9,X,9.9,231
+Jeep,Wagoneer 4X4,SUV: Standard,3,6,A8,X,12.5,293
+Jeep,Wagoneer 4X4,SUV: Standard,5.7,8,A8,X,13.8,324
+Jeep,Wagoneer L 4X4,SUV: Standard,3,6,A8,X,12.7,297
+Jeep,Wrangler JL 4X4,SUV: Small,2,4,A8,X,10.3,241
+Jeep,Wrangler JL 4X4,SUV: Small,3.6,6,A8,X,11.8,274
+Jeep,Wrangler JL 4X4 eTorque,SUV: Small,3.6,6,A8,X,11,258
+Jeep,Wrangler JL 4X4,SUV: Small,3.6,6,M6,X,11.8,277
+Jeep,Wrangler JL Unlimited 4X4,SUV: Small,2,4,A8,X,10.8,251
+Jeep,Wrangler JL Unlimited 4X4 EcoDiesel,SUV: Small,3,6,A8,D,9.5,255
+Jeep,Wrangler JL Unlimited 4X4 Rubicon EcoDiesel,SUV: Small,3,6,A8,D,10.2,275
+Jeep,Wrangler JL Unlimited 4X4,SUV: Small,3.6,6,A8,X,11.7,275
+Jeep,Wrangler JL Unlimited 4X4 eTorque,SUV: Small,3.6,6,A8,X,11.2,262
+Jeep,Wrangler JL Unlimited 4X4,SUV: Small,3.6,6,M6,X,12.2,285
+Jeep,Wrangler JL Unlimited 4X4 392,SUV: Small,6.4,8,A8,Z,16.5,387
+Kia,Carnival,Minivan,3.5,6,AS8,X,10.6,252
+Kia,Forte,Mid-size,1.6,4,AM7,X,7.8,184
+Kia,Forte,Mid-size,2,4,AV,X,7.2,170
+Kia,Forte 5,Full-size,1.6,4,AM7,X,8,190
+Kia,Forte 5,Full-size,2,4,AV,X,7.7,182
+Kia,K5,Full-size,2.5,4,AM8,X,8.7,207
+Kia,K5 AWD,Full-size,1.6,4,AS8,X,8.3,196
+Kia,Niro,Station wagon: Small,1.6,4,AM6,X,4.8,112
+Kia,Niro FE,Station wagon: Small,1.6,4,AM6,X,4.4,104
+Kia,Rio,Compact,1.6,4,AV1,X,6.7,160
+Kia,Rio,Compact,1.6,4,M6,X,7,166
+Kia,Seltos,SUV: Small,2,4,AV8,X,7.7,182
+Kia,Seltos AWD,SUV: Small,1.6,4,AM7,X,8.7,205
+Kia,Seltos AWD,SUV: Small,2,4,AV8,X,8.2,195
+Kia,Sorento AWD,SUV: Small,2.5,4,AM8,X,9.9,234
+Kia,Sorento AWD,SUV: Small,2.5,4,AS8,X,9.7,227
+Kia,Sorento Hybrid AWD,SUV: Small,1.6,4,AM6,X,6.6,157
+Kia,Soul,Station wagon: Small,2,4,AV,X,7.9,187
+Kia,Sportage,SUV: Small,2.5,4,AS8,X,8.4,198
+Kia,Sportage AWD,SUV: Small,2.5,4,AS8,X,9.5,224
+Kia,Sportage Hybrid AWD,SUV: Small,1.6,4,AM6,X,6.2,145
+Kia,Stinger AWD,Mid-size,3.3,6,AS8,Z,11.9,280
+Kia,Telluride AWD,SUV: Small,3.8,6,AS8,X,11.4,269
+Lamborghini,Hurac�n EVO Coupe,Two-seater,5.2,10,AM7,Z,15.8,368
+Lamborghini,Hurac�n EVO Coupe AWD,Two-seater,5.2,10,AM7,Z,15.9,370
+Lamborghini,Hurac�n EVO Spyder,Two-seater,5.2,10,AM7,Z,15.8,368
+Lamborghini,Hurac�n EVO Spyder AWD,Two-seater,5.2,10,AM7,Z,15.9,370
+Lamborghini,Urus Performante,SUV: Standard,4,8,AS8,Z,14.8,345
+Lamborghini,Urus S,SUV: Standard,4,8,AS8,Z,14.8,345
+Land Rover,Defender 90 P300,SUV: Standard,2,4,AS8,Z,12.3,289
+Land Rover,Defender 90 P400,SUV: Standard,3,6,AS8,Z,11.8,276
+Land Rover,Defender 90 5.0L V8,SUV: Standard,5,8,AS8,Z,14.3,339
+Land Rover,Defender 110 P300,SUV: Standard,2,4,AS8,Z,13,306
+Land Rover,Defender 110 P400,SUV: Standard,3,6,AS8,Z,11.8,276
+Land Rover,Defender 110 5.0L V8,SUV: Standard,5,8,AS8,Z,14.7,350
+Land Rover,Discovery P300,SUV: Standard,2,4,AS8,Z,11.5,271
+Land Rover,Discovery P360,SUV: Standard,3,6,AS8,Z,10.9,258
+Land Rover,Discovery Sport P250,SUV: Small,2,4,AS9,Z,11.5,271
+Land Rover,Range Rover P400,SUV: Standard,3,6,AS8,Z,11.3,265
+Land Rover,Range Rover P400 LWB,SUV: Standard,3,6,AS8,Z,11.3,265
+Land Rover,Range Rover P530,SUV: Standard,4.4,8,AS8,Z,13.3,316
+Land Rover,Range Rover P530 LWB,SUV: Standard,4.4,8,AS8,Z,13.3,314
+Land Rover,Range Rover Sport P360,SUV: Standard,3,6,AS8,Z,10.8,254
+Land Rover,Range Rover Sport HST P400,SUV: Standard,3,6,AS8,Z,11.3,265
+Land Rover,Range Rover Sport P530,SUV: Standard,4.4,8,AS8,Z,13.3,316
+Land Rover,Range Rover Evoque P250,SUV: Small,2,4,AS9,Z,10.5,247
+Land Rover,Range Rover Evoque P300,SUV: Small,2,4,AS9,Z,10.3,244
+Land Rover,Range Rover Velar P250,SUV: Small,2,4,AS8,Z,10.4,244
+Land Rover,Range Rover Velar P340,SUV: Small,3,6,AS8,Z,10.5,248
+Land Rover,Range Rover Velar P400,SUV: Small,3,6,AS8,Z,11.2,265
+Lexus,ES 250 AWD,Mid-size,2.5,4,AS8,X,8.4,195
+Lexus,ES 300h,Mid-size,2.5,4,AV6,X,5.3,124
+Lexus,ES 350,Mid-size,3.5,6,AS8,X,9.2,214
+Lexus,ES 350 F SPORT,Mid-size,3.5,6,AS8,X,9.4,219
+Lexus,GX 460,SUV: Standard,4.6,8,AS6,Z,14.5,337
+Lexus,IS 300,Compact,2,4,AS8,Z,9.5,221
+Lexus,IS 300 AWD,Compact,3.5,6,AS6,Z,10.8,253
+Lexus,IS 350 AWD,Compact,3.5,6,AS6,Z,10.8,253
+Lexus,IS 500,Compact,5,8,AS8,Z,11.9,280
+Lexus,LC 500,Subcompact,5,8,AS10,Z,12.6,294
+Lexus,LC 500 Convertible,Minicompact,5,8,AS10,Z,13,304
+Lexus,LC 500h,Subcompact,3.5,6,AV10,Z,8.1,189
+Lexus,LS 500 AWD,Mid-size,3.4,6,AS10,Z,11.2,270
+Lexus,LS 500h AWD,Mid-size,3.5,6,AV10,Z,9.2,217
+Lexus,LX 600,SUV: Standard,3.4,6,AS10,Z,12.7,298
+Lexus,NX 250 AWD,SUV: Small,2.5,4,AS8,X,8.4,198
+Lexus,NX 350 AWD,SUV: Small,2.4,4,AS8,Z,9.5,221
+Lexus,NX 350 AWD F SPORT,SUV: Small,2.4,4,AS8,Z,9.5,222
+Lexus,NX 350h AWD,SUV: Small,2.5,4,AV6,Z,6,139
+Lexus,RC 300 AWD,Subcompact,3.5,6,AS6,Z,10.8,253
+Lexus,RC 350 AWD,Subcompact,3.5,6,AS6,Z,10.8,253
+Lexus,RC F,Subcompact,5,8,AS8,Z,12.2,285
+Lexus,RX 350 AWD,SUV: Small,2.4,4,AS8,Z,9.9,231
+Lexus,RX 350h AWD,SUV: Small,2.5,4,AV6,Z,6.5,151
+Lexus,RX 500h AWD,SUV: Small,2.4,4,AS6,Z,8.6,199
+Lexus,UX 250h AWD,Compact,2,4,AV6,X,6,140
+Lincoln,Aviator AWD,SUV: Standard,3,6,AS10,X,11.9,280
+Lincoln,Aviator AWD (Without Stop-Start),SUV: Standard,3,6,AS10,X,12.5,292
+Lincoln,Corsair AWD,SUV: Small,2,4,AS8,X,9.9,232
+Lincoln,Nautilus AWD,SUV: Small,2,4,A8,X,10.6,249
+Lincoln,Nautilus AWD,SUV: Small,2,4,AS8,X,10.6,249
+Lincoln,Nautilus AWD,SUV: Small,2.7,6,AS8,X,11.2,262
+Lincoln,Navigator 4X4,SUV: Standard,3.5,6,AS10,X,13.2,310
+Lincoln,Navigator 4X4 (Without Stop-Start),SUV: Standard,3.5,6,AS10,X,13.6,320
+Maserati,Ghibli GT,Mid-size,3,6,A8,Z,11.6,271
+Maserati,Ghibli Modena,Mid-size,3,6,A8,Z,11.6,271
+Maserati,Ghibli Modena AWD,Mid-size,3,6,A8,Z,12,284
+Maserati,Ghibli Trofeo,Mid-size,3.8,8,A8,Z,14.9,348
+Maserati,Grecale GT,SUV: Small,2,4,A8,Z,9.4,218
+Maserati,Grecale Modena,SUV: Small,2,4,A8,Z,9.4,218
+Maserati,Grecale Trofeo,SUV: Small,3,6,A8,Z,11.6,268
+Maserati,Levante GT,SUV: Standard,3,6,A8,Z,13.2,308
+Maserati,Levante Modena,SUV: Standard,3,6,A8,Z,13.2,308
+Maserati,Levante Modena V8,SUV: Standard,3.8,8,A8,Z,15,349
+Maserati,Levante Trofeo,SUV: Standard,3.8,8,A8,Z,15,349
+Maserati,MC20,Two-seater,3,6,AS8,Z,12.8,295
+Maserati,MC20 Spyder,Two-seater,3,6,AS8,Z,12.8,299
+Maserati,Quattroporte GT,Full-size,3,6,A8,Z,12.1,281
+Maserati,Quattroporte Modena,Full-size,3,6,A8,Z,12.1,281
+Maserati,Quattroporte Modena AWD,Full-size,3,6,A8,Z,12,284
+Maserati,Quattroporte Trofeo,Full-size,3.8,8,A8,Z,14.9,348
+Mazda,CX-30 4WD,SUV: Small,2,4,AS6,X,8.6,202
+Mazda,CX-30 4WD,SUV: Small,2.5,4,AS6,X,8.2,192
+Mazda,CX-30 Turbo 4WD,SUV: Small,2.5,4,AS6,X,9.3,220
+Mazda,CX-5 4WD,SUV: Small,2.5,4,AS6,X,9,209
+Mazda,CX-5 Turbo 4WD,SUV: Small,2.5,4,AS6,X,9.8,230
+Mazda,CX-50 4WD,SUV: Small,2.5,4,AS6,X,8.9,209
+Mazda,CX-50 Turbo 4WD,SUV: Small,2.5,4,AS6,X,9.4,220
+Mazda,CX-9 4WD,SUV: Small,2.5,4,AS6,X,10.5,245
+Mazda,Mazda3 4-Door,Compact,2,4,AS6,X,7.6,178
+Mazda,Mazda3 4-Door (SIL),Compact,2,4,M6,X,7.7,180
+Mazda,Mazda3 4-Door,Compact,2.5,4,AS6,X,7.6,179
+Mazda,Mazda3 4-Door 4WD,Compact,2.5,4,AS6,X,7.9,185
+Mazda,Mazda3 4-Door Turbo 4WD,Compact,2.5,4,AS6,X,8.8,207
+Mazda,Mazda3 5-Door,Mid-size,2,4,AS6,X,7.7,181
+Mazda,Mazda3 5-Door (SIL),Mid-size,2,4,M6,X,7.8,181
+Mazda,Mazda3 5-Door,Mid-size,2.5,4,AS6,X,7.8,183
+Mazda,Mazda3 5-Door (SIL),Mid-size,2.5,4,M6,X,7.8,184
+Mazda,Mazda3 5-Door 4WD,Mid-size,2.5,4,AS6,X,8.1,190
+Mazda,Mazda3 5-Door Turbo 4WD,Mid-size,2.5,4,AS6,X,8.9,209
+Mazda,MX-5,Two-seater,2,4,AS6,Z,7.9,186
+Mazda,MX-5 (SIL),Two-seater,2,4,M6,Z,8.1,189
+Mercedes-Benz,AMG C 43 4MATIC Cabriolet,Subcompact,3,6,A9,Z,11.4,268
+Mercedes-Benz,AMG C 43 4MATIC Coupe,Subcompact,3,6,A9,Z,11,257
+Mercedes-Benz,AMG C 43 4MATIC Sedan,Compact,2,4,A9,Z,10.7,251
+Mercedes-Benz,AMG CLA 35 4MATIC Coupe,Compact,2,4,AM7,Z,9.9,232
+Mercedes-Benz,AMG CLA 45 4MATIC Coupe,Compact,2,4,AM8,Z,10.3,241
+Mercedes-Benz,AMG CLS 53 4MATIC+ Coupe,Compact,3,6,A9,Z,10.3,241
+Mercedes-Benz,AMG E 53 4MATIC+ Sedan,Mid-size,3,6,A9,Z,9.7,227
+Mercedes-Benz,AMG E 53 4MATIC+ Cabriolet,Subcompact,3,6,A9,Z,10.3,242
+Mercedes-Benz,AMG E 53 4MATIC+ Coupe,Subcompact,3,6,A9,Z,10.2,238
+Mercedes-Benz,AMG E 63 4MATIC+ All-Terrain Wagon,Station wagon: Mid-size,4,8,A9,Z,12.3,312
+Mercedes-Benz,AMG E 63 S 4MATIC+ Sedan,Mid-size,4,8,A9,Z,12.6,296
+Mercedes-Benz,AMG G 63 SUV,SUV: Standard,4,8,A9,Z,17.7,415
+Mercedes-Benz,AMG G 63 4x4 Squared SUV,SUV: Standard,4,8,A9,Z,21.7,508
+Mercedes-Benz,AMG GLA 35 4MATIC SUV,Station wagon: Small,2,4,AM8,Z,9.5,222
+Mercedes-Benz,AMG GLA 45 4MATIC SUV,Station wagon: Small,2,4,AM8,Z,10.9,256
+Mercedes-Benz,AMG GLB 35 4MATIC SUV,Station wagon: Mid-size,2,4,AM8,Z,10.2,238
+Mercedes-Benz,AMG GLC 43 4MATIC Coupe,SUV: Small,3,6,A9,Z,11.8,274
+Mercedes-Benz,AMG GLE 53 4MATIC+ SUV,SUV: Standard,3,6,A9,Z,12.2,284
+Mercedes-Benz,AMG GLE 53 4MATIC+ Coupe,SUV: Standard,3,6,A9,Z,11.9,277
+Mercedes-Benz,AMG GLE 63 S 4MATIC+ SUV,SUV: Standard,4,8,A9,Z,14.7,343
+Mercedes-Benz,AMG GLE 63 S 4MATIC+ Coupe,SUV: Standard,4,8,A9,Z,14.8,347
+Mercedes-Benz,AMG GLS 63 4MATIC+ SUV,SUV: Standard,4,8,A9,Z,15.1,354
+Mercedes-Benz,AMG GT 53 4MATIC+ Coupe,Compact,3,6,A9,Z,11.2,262
+Mercedes-Benz,AMG GT 63 4MATIC+ Coupe,Compact,4,8,A9,Z,14,329
+Mercedes-Benz,AMG GT 63 S 4MATIC+ Coupe,Compact,4,8,A9,Z,14,329
+Mercedes-Benz,AMG SL 63 4MATIC+ Roadster,Minicompact,4,8,A9,Z,15.3,360
+Mercedes-Benz,C 300 4MATIC Cabriolet,Subcompact,2,4,A9,Z,9.5,223
+Mercedes-Benz,C 300 4MATIC Coupe,Subcompact,2,4,A9,Z,9.3,218
+Mercedes-Benz,C 300 4MATIC Sedan,Compact,2,4,A9,Z,8.6,201
+Mercedes-Benz,CLA 250 4MATIC Coupe,Compact,2,4,AM7,Z,8.6,200
+Mercedes-Benz,CLS 450 4MATIC Coupe,Compact,3,6,A9,Z,9.7,229
+Mercedes-Benz,E 350 4MATIC Sedan,Mid-size,2,4,A9,Z,9.7,228
+Mercedes-Benz,E 450 4MATIC Cabriolet,Subcompact,3,6,A9,Z,9.9,233
+Mercedes-Benz,E 450 4MATIC Coupe,Subcompact,3,6,A9,Z,9.6,225
+Mercedes-Benz,E 450 4MATIC Sedan,Mid-size,3,6,A9,Z,9.3,219
+Mercedes-Benz,E 450 4MATIC All-Terrain Wagon,Station wagon: Mid-size,3,6,A9,Z,10,233
+Mercedes-Benz,G 550 SUV,SUV: Standard,4,8,A9,Z,16.3,383
+Mercedes-Benz,GLA 250 4MATIC SUV,SUV: Small,2,4,AM8,Z,9,210
+Mercedes-Benz,GLB 250 4MATIC SUV,SUV: Small,2,4,AM8,Z,9.4,221
+Mercedes-Benz,GLC 300 4MATIC SUV,SUV: Small,2,4,A9,Z,9.8,229
+Mercedes-Benz,GLC 300 4MATIC Coupe,SUV: Small,2,4,A9,Z,10.9,253
+Mercedes-Benz,GLE 350 4MATIC SUV,SUV: Standard,2,4,A9,Z,11,257
+Mercedes-Benz,GLE 450 4MATIC SUV,SUV: Standard,3,6,A9,Z,10.5,245
+Mercedes-Benz,GLE 450 4MATIC Coupe,SUV: Standard,3,6,A9,Z,10.5,247
+Mercedes-Benz,GLS 450 4MATIC SUV,SUV: Standard,3,6,A9,Z,11.6,270
+Mercedes-Benz,GLS 580 4MATIC SUV,SUV: Standard,4,8,A9,Z,13.2,310
+Mercedes-Benz,GLS 600 4MATIC Maybach SUV,SUV: Standard,4,8,A9,Z,14.8,346
+Mercedes-Benz,Maybach S 580 4MATIC Sedan,Full-size,4,8,A9,Z,13,305
+Mercedes-Benz,Maybach S 680 4MATIC Sedan,Full-size,6,12,A9,Z,16.4,384
+Mercedes-Benz,Metris Cargo Van,Special purpose vehicle,2,4,A9,Z,11.6,271
+Mercedes-Benz,Metris Cargo Van LWB,Special purpose vehicle,2,4,A9,Z,11.6,271
+Mercedes-Benz,Metris Passenger Van,Special purpose vehicle,2,4,A9,Z,12.3,285
+Mercedes-Benz,S 500 4MATIC Sedan,Full-size,3,6,A9,Z,10.4,242
+Mercedes-Benz,S 580 4MATIC Sedan,Full-size,4,8,A9,Z,12.2,285
+MINI,Cooper 3 Door,Subcompact,1.5,3,AM7,Z,7.3,170
+MINI,Cooper 3 Door,Subcompact,1.5,3,M6,Z,7.6,177
+MINI,Cooper 5 Door,Subcompact,1.5,3,AM7,Z,7.3,170
+MINI,Cooper 5 Door,Subcompact,1.5,3,M6,Z,7.6,177
+MINI,Cooper Clubman ALL4,Mid-size,1.5,3,AS8,Z,8.5,199
+MINI,Cooper Convertible,Minicompact,1.5,3,AM7,Z,7.3,170
+MINI,Cooper Convertible,Minicompact,1.5,3,M6,Z,7.6,177
+MINI,Cooper Countryman,Mid-size,1.5,3,AM7,Z,8.3,194
+MINI,Cooper Countryman ALL4,Mid-size,1.5,3,AS8,Z,9,209
+MINI,Cooper S 3 Door,Subcompact,2,4,AM7,Z,7.5,174
+MINI,Cooper S 3 Door,Subcompact,2,4,M6,Z,8.8,205
+MINI,Cooper S 5 Door,Subcompact,2,4,AM7,Z,7.5,174
+MINI,Cooper S 5 Door,Subcompact,2,4,M6,Z,8.8,205
+MINI,Cooper S Clubman,Mid-size,2,4,AM7,Z,8.2,191
+MINI,Cooper S Clubman,Mid-size,2,4,M6,Z,9.3,217
+MINI,Cooper S Clubman ALL4,Mid-size,2,4,AS8,Z,8.9,206
+MINI,Cooper S Convertible,Minicompact,2,4,AM7,Z,7.8,182
+MINI,Cooper S Convertible,Minicompact,2,4,M6,Z,8.8,205
+MINI,Cooper S Countryman,Mid-size,2,4,AM7,Z,8.5,199
+MINI,Cooper S Countryman ALL4,Mid-size,2,4,AS8,Z,9.1,212
+MINI,John Cooper Works 3 Door,Subcompact,2,4,AS8,Z,8.2,191
+MINI,John Cooper Works 3 Door,Subcompact,2,4,M6,Z,9.3,216
+MINI,John Cooper Works Clubman ALL4,Mid-size,2,4,AS8,Z,9,210
+MINI,John Cooper Works Convertible,Minicompact,2,4,AS8,Z,8.6,200
+MINI,John Cooper Works Countryman ALL4,Mid-size,2,4,AS8,Z,9,210
+Mitsubishi,Eclipse Cross 4WD,SUV: Small,1.5,4,AV8,X,9.3,216
+Mitsubishi,Mirage,Compact,1.2,3,AV,X,6.2,143
+Mitsubishi,Mirage,Compact,1.2,3,M5,X,6.5,151
+Mitsubishi,Outlander 4WD,SUV: Small,2.5,4,AV8,X,8.9,208
+Mitsubishi,RVR,SUV: Small,2,4,AV6,X,8.9,207
+Mitsubishi,RVR 4WD,SUV: Small,2,4,AV6,X,9.1,213
+Mitsubishi,RVR 4WD,SUV: Small,2.4,4,AV6,X,9.4,218
+Nissan,Altima AWD,Mid-size,2.5,4,AV,X,7.9,187
+Nissan,Altima AWD SR/Platinum,Mid-size,2.5,4,AV,X,8.1,191
+Nissan,Armada 4WD,SUV: Standard,5.6,8,AS7,Z,15.4,362
+Nissan,Frontier,Pickup truck: Standard,3.8,6,AS9,X,11.1,260
+Nissan,Frontier 4WD,Pickup truck: Standard,3.8,6,AS9,X,11.6,273
+Nissan,Frontier 4WD Pro-4X,Pickup truck: Standard,3.8,6,AS9,X,12,283
+Nissan,GT-R,Subcompact,3.8,6,AM6,Z,12.8,300
+Nissan,Kicks,Mid-size,1.6,4,AV,X,7.2,169
+Nissan,Maxima,Mid-size,3.5,6,AV7,Z,9.9,233
+Nissan,Murano AWD,Station wagon: Mid-size,3.5,6,AV7,X,10.4,245
+Nissan,Pathfinder 4WD,SUV: Small,3.5,6,AS9,X,10.5,246
+Nissan,Pathfinder 4WD Rock Creek,SUV: Small,3.5,6,AS9,Z,11.1,260
+Nissan,Qashqai,Station wagon: Small,2,4,AV8,X,8,188
+Nissan,Qashqai AWD,Station wagon: Small,2,4,AV8,X,8.3,196
+Nissan,Rogue,SUV: Small,1.5,3,AV8,X,7.2,170
+Nissan,Rogue,SUV: Small,2.5,4,AV8,X,8.1,190
+Nissan,Rogue AWD,SUV: Small,1.5,3,AV8,X,7.6,179
+Nissan,Rogue AWD SL/Platinum,SUV: Small,1.5,3,AV8,X,7.7,181
+Nissan,Rogue AWD,SUV: Small,2.5,4,AV8,X,8.3,195
+Nissan,Sentra,Mid-size,2,4,AV,X,7.1,167
+Nissan,Sentra SR,Mid-size,2,4,AV,X,7.3,171
+Nissan,Sentra,Mid-size,2,4,M6,X,7.9,185
+Nissan,Sentra SR,Mid-size,2,4,M6,X,8.1,189
+Nissan,Versa,Compact,1.6,4,AV,X,6.7,158
+Nissan,Versa,Compact,1.6,4,M5,X,7.7,181
+Nissan,Z,Two-seater,3,6,AS9,Z,10.6,249
+Nissan,Z,Two-seater,3,6,M6,Z,11.9,280
+Porsche,911 Carrera,Minicompact,3,6,AM8,Z,11.6,275
+Porsche,911 Carrera Cabriolet,Minicompact,3,6,AM8,Z,11.6,275
+Porsche,911 Carrera S,Minicompact,3,6,AM8,Z,11.7,274
+Porsche,911 Carrera S,Minicompact,3,6,M7,Z,11.3,264
+Porsche,911 Carrera S Cabriolet,Minicompact,3,6,AM8,Z,11.7,273
+Porsche,911 Carrera S Cabriolet,Minicompact,3,6,M7,Z,11.8,275
+Ram,1500 eTorque,Pickup truck: Standard,3.6,6,A8,X,10.8,253
+Ram,1500 eTorque,Pickup truck: Standard,5.7,8,A8,X,11.7,275
+Ram,1500 4X4 EcoDiesel,Pickup truck: Standard,3,6,A8,D,9.7,260
+Ram,1500 4X4 eTorque,Pickup truck: Standard,3.6,6,A8,X,11,259
+Ram,1500 4X4,Pickup truck: Standard,5.7,8,A8,X,13.8,325
+Ram,1500 4X4 eTorque,Pickup truck: Standard,5.7,8,A8,X,12.1,284
+Ram,1500 4X4 TRX,Pickup truck: Standard,6.2,8,A8,Z,19.8,465
+Ram,1500 Classic,Pickup truck: Standard,3.6,6,A8,X,11.7,276
+Ram,1500 Classic,Pickup truck: Standard,5.7,8,A8,X,13.8,322
+Ram,1500 Classic 4X4,Pickup truck: Standard,3.6,6,A8,X,12.5,294
+Ram,1500 Classic 4X4,Pickup truck: Standard,5.7,8,A8,X,14.1,330
+Rolls-Royce,Cullinan,Station wagon: Mid-size,6.7,12,AS8,Z,16.6,389
+Rolls-Royce,Cullinan Black Badge,Station wagon: Mid-size,6.7,12,AS8,Z,16.6,389
+Rolls-Royce,Ghost,Full-size,6.7,12,AS8,Z,16.7,388
+Rolls-Royce,Ghost Black Badge,Full-size,6.7,12,AS8,Z,16.7,388
+Rolls-Royce,Ghost Extended,Full-size,6.7,12,AS8,Z,16.7,388
+Rolls-Royce,Phantom,Full-size,6.7,12,AS8,Z,17,397
+Rolls-Royce,Phantom Extended,Full-size,6.7,12,AS8,Z,17,397
+Subaru,Ascent AWD,SUV: Standard,2.4,4,AV8,X,11,256
+Subaru,BRZ,Minicompact,2.4,4,AS6,Z,9.5,224
+Subaru,BRZ,Minicompact,2.4,4,M6,Z,10.5,247
+Subaru,Crosstrek AWD,SUV: Small,2,4,AV8,X,7.9,184
+Subaru,Crosstrek AWD,SUV: Small,2,4,M6,X,9.4,220
+Subaru,Crosstrek AWD,SUV: Small,2.5,4,AV8,X,8,187
+Subaru,Forester AWD,SUV: Small,2.5,4,AV7,X,8.2,192
+Subaru,Forester Wilderness AWD,SUV: Small,2.5,4,AV8,X,9,210
+Subaru,Impreza 5-Door AWD,Station wagon: Small,2,4,AV7,X,7.6,178
+Subaru,Impreza 5-Door AWD,Station wagon: Small,2,4,M5,X,9,211
+Subaru,Legacy AWD,Full-size,2.4,4,AV8,X,9,209
+Subaru,Legacy AWD,Full-size,2.5,4,AV8,X,7.8,183
+Subaru,Outback AWD,SUV: Small,2.4,4,AV8,X,9.5,221
+Subaru,Outback AWD,SUV: Small,2.5,4,AV8,X,8.3,195
+Subaru,Outback Wilderness AWD,SUV: Small,2.4,4,AV8,X,10.1,235
+Subaru,WRX AWD,Mid-size,2.4,4,AV8,Z,11.2,262
+Subaru,WRX AWD,Mid-size,2.4,4,M6,Z,10.8,254
+Toyota,4Runner 4WD,SUV: Standard,4,6,AS5,X,13.8,323
+Toyota,4Runner 4WD (Part-Time 4WD),SUV: Standard,4,6,AS5,X,13.8,320
+Toyota,Camry SE,Mid-size,2.5,4,AS8,X,7.4,174
+Toyota,Camry XSE V6/TRD,Mid-size,3.5,6,AS8,X,9.4,220
+Toyota,Camry AWD SE,Mid-size,2.5,4,AS8,X,8.2,192
+Toyota,Camry AWD XSE,Mid-size,2.5,4,AS8,X,8.4,195
+Toyota,Camry Hybrid LE,Mid-size,2.5,4,AV6,X,4.9,113
+Toyota,Camry Hybrid SE/XLE/XSE,Mid-size,2.5,4,AV6,X,5.1,121
+Toyota,Corolla (1-mode),Compact,2,4,AV10,X,6.7,158
+Toyota,Corolla (3-mode),Compact,2,4,AV10,X,6.8,160
+Toyota,Corolla Hatchback,Compact,2,4,AV10,X,6.8,159
+Toyota,Corolla Hybrid,Compact,1.8,4,AV,X,4.7,110
+Toyota,Corolla Hybrid AWD (2-mode),Compact,1.8,4,AV,X,4.9,115
+Toyota,Corolla Hybrid AWD (3-mode),Compact,1.8,4,AV,X,5.3,124
+Toyota,Corolla Cross,SUV: Small,2,4,AV10,X,7.3,171
+Toyota,Corolla Cross AWD,SUV: Small,2,4,AV10,X,7.8,182
+Toyota,Corolla Cross Hybrid AWD,SUV: Small,2,4,AV6,X,5.6,130
+Toyota,Crown AWD,Mid-size,2.4,4,AS6,X,7.8,182
+Toyota,Crown AWD,Mid-size,2.5,4,AV,X,5.7,133
+Toyota,GR Corolla,Subcompact,1.6,3,M6,Z,9.8,229
+Toyota,GR Supra 2.0,Two-seater,2,4,AS8,Z,8.6,200
+Toyota,GR Supra 3.0,Two-seater,3,6,AS8,Z,9.1,212
+Toyota,GR Supra 3.0,Two-seater,3,6,M6,Z,10.9,255
+Toyota,GR86,Minicompact,2.4,4,AS6,Z,9.6,225
+Toyota,GR86,Minicompact,2.4,4,M6,Z,10.5,247
+Toyota,Highlander AWD,SUV: Small,2.4,4,AS8,X,9.9,231
+Toyota,Highlander Hybrid AWD,SUV: Standard,2.5,4,AV,X,6.7,158
+Toyota,Highlander Hybrid AWD Limited/Platinum,SUV: Standard,2.5,4,AV,X,6.7,156
+Toyota,Prius AWD,Mid-size,2,4,AV,X,4.8,111
+Toyota,RAV4,SUV: Small,2.5,4,AS8,X,7.9,184
+Toyota,RAV4 AWD,SUV: Small,2.5,4,AS8,X,8.5,199
+Toyota,RAV4 AWD (Stop/Start),SUV: Small,2.5,4,AS8,X,8,187
+Toyota,RAV4 AWD LE,SUV: Small,2.5,4,AS8,X,7.9,184
+Toyota,RAV4 Hybrid AWD,SUV: Small,2.5,4,AV,X,6,141
+Toyota,Sequoia 4WD,SUV: Standard,3.4,6,AS10,X,11.7,273
+Toyota,Sienna,Minivan,2.5,4,AV,X,6.6,154
+Toyota,Sienna AWD,Minivan,2.5,4,AV,X,6.7,158
+Toyota,Tacoma 4WD,Pickup truck: Small,3.5,6,AS6,X,11.9,278
+Toyota,Tacoma 4WD,Pickup truck: Small,3.5,6,M6,X,12.7,299
+Toyota,Tacoma 4WD D-Cab TRD Off-Road/PRO,Pickup truck: Small,3.5,6,M6,X,12.9,300
+Toyota,Tundra,Pickup truck: Standard,3.4,6,AS10,X,11.8,277
+Toyota,Tundra 4WD,Pickup truck: Standard,3.4,6,AS10,X,12.2,285
+Toyota,Tundra 4WD TRD,Pickup truck: Standard,3.4,6,AS10,X,12.2,286
+Toyota,Tundra Hybrid 4WD,Pickup truck: Standard,3.4,6,AS10,X,11.7,274
+Toyota,Tundra Hybrid 4WD TRD PRO,Pickup truck: Standard,3.4,6,AS10,X,12.3,287
+Toyota,Venza AWD,SUV: Small,2.5,4,AV,X,6.1,142
+Volkswagen,Atlas,SUV: Small,2,4,AS8,X,10.2,240
+Volkswagen,Atlas 4MOTION,SUV: Small,2,4,AS8,X,10.9,255
+Volkswagen,Atlas 4MOTION,SUV: Small,3.6,6,AS8,X,11.9,279
+Volkswagen,Atlas Cross Sport,SUV: Small,2,4,AS8,X,10.3,243
+Volkswagen,Atlas Cross Sport 4MOTION,SUV: Small,2,4,AS8,X,10.9,256
+Volkswagen,Atlas Cross Sport 4MOTION,SUV: Small,3.6,6,AS8,X,11.7,275
+Volkswagen,Golf GTI,Compact,2,4,AM7,X,8.5,198
+Volkswagen,Golf GTI,Compact,2,4,M6,X,8.8,205
+Volkswagen,Golf R,Compact,2,4,A7,Z,9.1,213
+Volkswagen,Golf R,Compact,2,4,M6,Z,10.2,237
+Volkswagen,Jetta,Compact,1.5,4,AS8,X,6.8,159
+Volkswagen,Jetta Comfortline/Highline,Compact,1.5,4,AS8,X,7.1,167
+Volkswagen,Jetta,Compact,1.5,4,M6,X,7,165
+Volkswagen,Jetta GLI,Compact,2,4,AM7,X,7.9,185
+Volkswagen,Jetta GLI,Compact,2,4,M6,X,7.9,186
+Volkswagen,Taos,SUV: Small,1.5,4,AS8,X,7.6,178
+Volkswagen,Taos 4MOTION,SUV: Small,1.5,4,AM7,X,8.5,200
+Volkswagen,Tiguan 4MOTION,SUV: Small,2,4,AS8,X,9.4,222
+Volkswagen,Tiguan R-Line 4MOTION,SUV: Small,2,4,AS8,X,9.8,229
+Volvo,S60 B5,Compact,2,4,AS8,Z,8,186
+Volvo,S60 B5 AWD,Compact,2,4,AS8,Z,8.3,193
+Volvo,S90 B6 AWD,Mid-size,2,4,AS8,Z,9,211
+Volvo,V60 B6 AWD,Station wagon: Small,2,4,AS8,Z,9.1,212
+Volvo,V60 CC B5 AWD,Station wagon: Small,2,4,AS8,Z,9,211
+Volvo,V90 CC B6 AWD,Station wagon: Mid-size,2,4,AS8,Z,9.7,227
+Volvo,XC40 B4 AWD,SUV: Small,2,4,AS8,Z,8.9,208
+Volvo,XC40 B5 AWD,SUV: Small,2,4,AS8,Z,9.2,215
+Volvo,XC60 B5 AWD,SUV: Small,2,4,AS8,Z,9.4,218
+Volvo,XC60 B6 AWD,SUV: Small,2,4,AS8,Z,10,233
+Volvo,XC90 B5 AWD,SUV: Standard,2,4,AS8,Z,9.6,223
+Volvo,XC90 B6 AWD,SUV: Standard,2,4,AS8,Z,10.6,249
