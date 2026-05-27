@@ -22,7 +22,7 @@ Untuk menjalankan sistem pemodelan ini secara optimal, silakan ikuti langkah-lan
 2. **Simpan Salinan:** Pilih menu File > _Save a copy in Drive_ agar Anda dapat mengedit dan menyimpan perubahan pada akun Google Anda sendiri.
 3. **Unggah Dataset:**
    - Klik ikon Files (gambar folder) pada sidebar sebelah kiri.
-   - Klik ikon Upload atau seret file dataset Anda ke dalam direktori `..` tersebut.
+   - Klik ikon Upload atau seret file dataset Anda ke dalam direktori `..` tersebut dengan nama file `co2_emissions.csv`.
 4. **Eksekusi Program:** Jalankan seluruh sel kode dengan memilih menu `Runtime` > `Run All` atau gunakan pintasan keyboard `Ctrl + F9`.
 5. **Uji Coba Implementasi:** Setelah semua sel selesai dijalankan, Anda dapat langsung mencoba implementasi sistem dengan memasukkan spesifikasi kendaraan pada panel interaktif sesuai dengan preferensi Anda untuk melihat hasil prediksi dan rekomendasi secara real-time.
 
