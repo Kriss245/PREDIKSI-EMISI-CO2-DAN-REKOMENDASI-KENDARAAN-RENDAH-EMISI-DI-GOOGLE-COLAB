@@ -38,7 +38,7 @@ Untuk menjalankan sistem pemodelan ini secara optimal, silakan ikuti langkah-lan
 </p>
 
 ### 2. VISUALISASI EVALUASI MODEL
-<p align="center"><img src="https://imgur.com/X3V8N7t.png" width="500"></p>
+<p align="center"><img src="https://imgur.com/n93k8Z4.png" width="500"></p>
 <p align="center" style="font-size:10px; color:gray;">
 <em> Gambar 2. Perbandingan Data Aktual dan Hasil Prediksi </em>
 </p>
