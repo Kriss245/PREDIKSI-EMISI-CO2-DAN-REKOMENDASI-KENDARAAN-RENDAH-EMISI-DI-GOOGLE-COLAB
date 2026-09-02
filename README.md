@@ -1,5 +1,5 @@
 # 📖 DESKRIPSI PROYEK
-> Proyek ini merupakan sistem pemodelan berbasis _Machine Learning_ yang dikembangkan menggunakan Google Colab untuk memprediksi tingkat emisi karbon dioksida (CO₂) pada kendaraan. Selain prediksi, sistem ini juga mengintegrasikan fitur rekomendasi kendaraan rendah emisi untuk mendukung keberlanjutan lingkungan.
+> Proyek ini merupakan sistem pemodelan yang dikembangkan menggunakan Google Colab untuk memprediksi tingkat emisi karbon dioksida (CO₂) pada kendaraan. Selain prediksi, sistem ini juga mengintegrasikan fitur rekomendasi kendaraan rendah emisi untuk mendukung keberlanjutan lingkungan.
 
 ---
 
