@@ -32,7 +32,7 @@ Untuk menjalankan sistem pemodelan ini secara optimal, silakan ikuti langkah-lan
 
 # 🖼️ TAMPILAN IMPLEMENTASI SISTEM
 ### 1. HASIL PREDIKSI EMISI
-<p align="center"><img src="https://imgur.com/dmNxdfs.png" width="500"></p>
+<p align="center"><img src="https://imgur.com/baGhosn.png" width="500"></p>
 <p align="center" style="font-size:10px; color:gray;">
 <em> Gambar 1. Hasil Prediksi Emisi </em>
 </p>
