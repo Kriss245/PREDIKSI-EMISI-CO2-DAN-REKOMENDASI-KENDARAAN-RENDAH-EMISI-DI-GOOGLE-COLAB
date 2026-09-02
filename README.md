@@ -11,7 +11,7 @@
 
 # 🛠️ TEKNOLOGI YANG DIGUNAKAN
 - **Bahasa Pemrograman:** Python.
-- **Library:** Pandas, NumPy, Scikit-Learn, Matplotlib, dan IPyWidgets.
+- **Library:** Pandas, Re, NumPy, Scikit-Learn, Seaborn, Matplotlib, IPyWidgets, dan IPython.Display.
 - **Platform:** Google Colab.
 - **Dataset:** _Dataset_ ini bersifat publik terkait Emisi CO₂ kendaraan yang berasal dari platform Kaggle. Data tersebut tersedia dan dapat diakses secara publik melalui badge **Kaggle** berikut: [![Kaggle](https://img.shields.io/badge/Kaggle-Dataset-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/datasets/mcpenguin/canadian-fuel-consumption-ratings)
 ---
