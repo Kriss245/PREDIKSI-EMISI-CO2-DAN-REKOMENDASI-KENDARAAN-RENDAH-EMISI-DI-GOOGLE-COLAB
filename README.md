@@ -54,7 +54,7 @@ Untuk menjalankan sistem pemodelan ini secara optimal, silakan ikuti langkah-lan
 </p>
 
 ### 3. IMPLEMENTASI SISTEM
-<p align="center"><img src="https://imgur.com/zmY6u0v.png" width="500"></p>
+<p align="center"><img src="https://imgur.com/pnrB9YB.png" width="500"></p>
 <p align="center" style="font-size:10px; color:gray;">
 <em> Gambar 5. Implementasi Sistem </em>
 </p>
